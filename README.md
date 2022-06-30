@@ -40,4 +40,4 @@ The following shows the plot of actual v/s predicted price of Bitcoin using FNG 
 ## Conclusions
 
 - The LTSM model which uses the closing prices made better predictions than using of FNG index as can be seen by the plots of price predictions.
-- The loss at the end of 100 `epochs' was about 0.0066 in closing prices model compared to 0.0458 in FNG Index model which indicates the model which used closing prices was a better fit and better model than the one that uses the FNG Index.
+- The loss at the end of 100 `epochs` was about 0.0066 in closing prices model compared to 0.0458 in FNG Index model which indicates the model which used closing prices was a better fit and better model than the one that uses the FNG Index.
